@@ -1,4 +1,4 @@
-# Proteomics Fold-change-based Expression Comparison and GO Enrichment Analysis
+# Proteomics Fold-change-Based Expression Comparison and GO Enrichment Analysis
 
 Exploratory analysis of total proteome and phosphoproteome datasets performed as part of my MSc in Applied Bioinformatics & Genomics.
 

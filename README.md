@@ -14,10 +14,16 @@ Note: Due to the exploratory 1:1 sample design, fold-change thresholds were used
 - Data visualisation
 
 ## Features
-- Optional sensitivity analysis enabling parallel analyses at different fold-change thresholds.
+Optional sensitivity analysis enabling parallel analyses at different fold-change thresholds.
 
 ## Tools
 R, tidyverse, janitor, clusterProfiler, pheatmap, ggplot2
+
+## Repository Structure
+- data/ – input data or metadata  
+- scripts/ – analysis scripts  
+- results/ – generated output tables  
+- figures/ – visualisations
 
 ## Status
 ⚠️ Work in progress
